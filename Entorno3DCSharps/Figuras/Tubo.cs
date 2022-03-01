@@ -176,7 +176,7 @@ namespace Entorno3DCSharps.Figuras
                     y = radioMenor * (float)Math.Sin(a) * scale;
                     z = h * scale;*/
 
-                    i = radioMenor * (float)Math.Cos(a);aca
+                    i = radioMenor * (float)Math.Cos(a);
                     j = radioMenor * (float)Math.Sin(a);
 
                     int cColor = colorCodePhong(i,j,0);
